@@ -23,7 +23,7 @@
 
 1.修复无法域名解析 2.修复xray无法更新 
 
-`wget --no-check-certificate "https://github.com//jackmoo1/xray/raw/main/xray.sh" && chmod +x xray.sh && ./xray.sh`
+`wget --no-check-certificate "https://github.com//fengwocool/xray/raw/main/xray.sh" && chmod +x xray.sh && ./xray.sh`
 
 快捷启动`./xray.sh`
 
